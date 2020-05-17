@@ -487,6 +487,7 @@ section {
 
 #kostenButton {
   color: #555555;
+  cursor: pointer;
 }
 
 .about .image {
