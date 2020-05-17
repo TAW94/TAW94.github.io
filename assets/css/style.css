@@ -41,6 +41,10 @@ hr {
   border-top: 1px solid #4285f4;
 }
 
+[data-toggle~='collapse'] {
+  cursor: point;
+}
+
 
 /* h1, h2, h3, h4, h5, h6 {
 font-family:nunito,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
