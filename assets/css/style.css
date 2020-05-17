@@ -41,8 +41,8 @@ hr {
   border-top: 1px solid #4285f4;
 }
 
-[data-toggle~='collapse'] {
-  cursor: point;
+div[data-toggle="collapse"] {
+  cursor:pointer;
 }
 
 
